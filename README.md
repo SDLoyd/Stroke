@@ -18,7 +18,7 @@ A pandas-profiling [report](https://sdloyd.github.io/Stroke/pandasprofile/stroke
 
 The python [code](code/stroke.ipynb) is available as a Jypyter notebook.
 
-If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/Stroke/blob/main/code/stroke.ipynb).
+If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/Stroke/blob/master/code/stroke.ipynb).
 
 ## Tools
 
