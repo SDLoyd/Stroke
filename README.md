@@ -26,6 +26,10 @@ To run this notebook locally, install Jupyter, download the data set, change the
 
 Try [Anaconda](https://www.anaconda.com/).
 
+## Model
+
+The [trained model](pickle) can be found here in pickle format.
+
 ## Tools
 
 * Python
