@@ -28,7 +28,7 @@ Try [Anaconda](https://www.anaconda.com/).
 
 ## Model
 
-The [trained model](pickle) can be found here in pickle format.
+The [trained model](pickle) can be found here in pickle format or for [PyCaret format](code) here.
 
 ## Tools
 
