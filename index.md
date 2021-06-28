@@ -16,7 +16,7 @@ A pandas-profiling [report](https://sdloyd.github.io/Stroke/pandasprofile/stroke
 
 ## Code
 
-The python [code](code/stroke.ipynb) is available as a Jypyter notebook.
+The python [code](https://github.com/SDLoyd/Stroke/master/code/stroke.ipynb) is available as a Jypyter notebook.
 
 If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/Stroke/blob/master/code/stroke.ipynb).
 
@@ -32,7 +32,7 @@ Try [Anaconda](https://www.anaconda.com/).
 
 ## Model
 
-The [trained model](pickle) can be found here in pickle format or for [PyCaret format](model) here.
+The [trained model](https://github.com/SDLoyd/Stroke/master/pickle) can be found here in pickle format or for [PyCaret format](https://github.com/SDLoyd/Stroke/master/model) here.
 
 ## Tools
 
