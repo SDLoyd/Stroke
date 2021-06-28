@@ -32,7 +32,7 @@ Try [Anaconda](https://www.anaconda.com/).
 
 ## Model
 
-The [trained model](https://github.com/SDLoyd/Stroke/master/pickle) can be found here in pickle format or for [PyCaret format](https://github.com/SDLoyd/Stroke/master/model) here.
+The [trained model](https://github.com/SDLoyd/Stroke/blob/master/pickle) can be found here in pickle format or for [PyCaret format](https://github.com/SDLoyd/Stroke/blob/master/model) here.
 
 ## Tools
 
