@@ -43,4 +43,8 @@ The [trained model](https://github.com/SDLoyd/Stroke/blob/master/pickle) can be 
 * Tableau
 * MS PowerPoint
 
+## Credits
+
+_Surgery [image](https://unsplash.com/photos/tMFeatBSS4s) by Olga Guryanova at [Unsplash](https://unsplash.com/)_
+
 

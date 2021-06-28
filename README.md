@@ -43,4 +43,7 @@ The [trained model](pickle) can be found here in pickle format or for [PyCaret f
 * Tableau
 * MS PowerPoint
 
+## Credits
+
+_Surgery [image](https://unsplash.com/photos/tMFeatBSS4s) by Olga Guryanova at [Unsplash](https://unsplash.com/)_
 
