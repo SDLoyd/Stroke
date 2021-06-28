@@ -20,6 +20,10 @@ The python [code](code/stroke.ipynb) is available as a Jypyter notebook.
 
 If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/Stroke/blob/master/code/stroke.ipynb).
 
+## Documentation
+
+[Executive Report](docs/stroke.pdf)
+
 ## Instructions
 
 To run this notebook locally, install Jupyter, download the data set, change the file location to load the code and data, and install all the library dependencies.
