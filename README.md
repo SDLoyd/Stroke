@@ -24,6 +24,10 @@ If you have trouble with GitHub rendering the file, please try [here](https://nb
 
 [Executive Report](docs/stroke.pdf)
 
+## Presentation
+
+[Executive Presentation](https://youtu.be/LtM1ZlPX3Wk)
+
 ## Instructions
 
 To run this notebook locally, install Jupyter, download the data set, change the file location to load the code and data, and install all the library dependencies.
@@ -47,3 +51,4 @@ The [trained model](pickle) can be found here in pickle format or for [PyCaret f
 
 _Surgery [image](https://unsplash.com/photos/tMFeatBSS4s) by Olga Guryanova at [Unsplash](https://unsplash.com/)_
 
+[Presentation Image Credits](images/ImageCredits.pdf)
