@@ -10,6 +10,8 @@ The purpose of this project is to analyze a Kaggle data set and to create a pred
 
 The Kaggle [data](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset/metadata) provided by [fedesoriano](https://www.kaggle.com/fedesoriano).
 
+Southern Stroke Mortality [Mapping Data](https://www.cdc.gov/stroke/maps_data.htm)
+
 ## EDA 
 
 A pandas-profiling [report](https://sdloyd.github.io/Stroke/pandasprofile/stroke-pandas-profile-report.html) is available.
