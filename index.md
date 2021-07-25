@@ -36,9 +36,10 @@ To run this notebook locally, install Jupyter, download the data set, change the
 
 Try [Anaconda](https://www.anaconda.com/).
 
-## Model
+## Model Folders
 
-The [trained model](https://github.com/SDLoyd/Stroke/blob/master/pickle) can be found here in pickle format or for [PyCaret format](https://github.com/SDLoyd/Stroke/blob/master/model) here.
+* [Pickle Format](https://github.com/SDLoyd/Stroke/blob/master/pickle) 
+* [PyCaret format](https://github.com/SDLoyd/Stroke/blob/master/model)
 
 ## Tools
 
