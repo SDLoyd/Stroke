@@ -53,5 +53,3 @@ Try [Anaconda](https://www.anaconda.com/).
 ## Credits
 
 _Surgery [image](https://unsplash.com/photos/tMFeatBSS4s) by Olga Guryanova at [Unsplash](https://unsplash.com/)_
-
-[Presentation Image Credits](images/ImageCredits.pdf)
